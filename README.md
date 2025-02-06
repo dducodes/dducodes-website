@@ -1,4 +1,6 @@
-# portofolio-v2
+# Portfolio Website by Durga
+Inspired by https://github.com/rakha-elctrnx/Portofolio-v2
+
 
 ## Project setup
 ```
