@@ -1,5 +1,5 @@
 {
-  "name": "portofolio-v2",
+  "name": "portfolio-final",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
     "axios": "^1.4.0",
     "core-js": "^3.8.3",
+    "portfolio-final": "file:",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
