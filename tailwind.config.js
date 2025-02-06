@@ -2,7 +2,7 @@
 module.exports = {
   content: ['./public/**/*.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   presets: [],
-  darkMode: 'media', // or 'class'
+  darkMode: 'media',
   theme: {
     accentColor: ({ theme }) => ({
       ...theme('colors'),
@@ -10,7 +10,7 @@ module.exports = {
     }),
     extend: {
       colors: {
-        'yellow-crayola': 'hsl(45, 100%, 72%)'
+        'purple': 'rgb(188, 113, 218)'
       }
     },
     animation: {
